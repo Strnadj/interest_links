@@ -41,6 +41,10 @@
 
 ## CSS / UI / Frameworks
 
+### Tools
+
+* http://www.flexboxpatterns.com/ - Flexbox patterns 
+
 ### UI sets
 
 * http://www.material-ui.com/#/components/snackbar - Material UI
