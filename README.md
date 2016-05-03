@@ -2,17 +2,55 @@
 
 ## General
 
+### Tmux
+
+* http://tmuxcheatsheet.com/ - Cheatsheet
+* https://github.com/tmuxinator/tmuxinator - Tmux sessions manager
+
 ## Ruby
 
 * https://blog.arkency.com/2016/02/private-classes-in-ruby/ - Private classes in Ruby
 * https://github.com/fakefs/fakefs - Fake filesystem for tests
 * https://github.com/twitter/secureheaders - Security related headers
+* http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/ - Adapter pattern in ruby
 
 ## Ruby on Rails
 
 * https://github.com/amatsuda/stateful_enum - Simple state machine built on ActiveRecord::Enum
 * http://www.sitepoint.com/easily-allow-file-upload-rails-refile/ - Basic using of Refiel (File Uploader)
 * http://aserafin.pl/2016/02/19/side-effects-of-using-first-or-create-at-scale/ - Problem with first_or_create! on scale environments
+* https://github.com/norman/friendly_id - Friendly URLs'
+
+### Assets
+
+* https://github.com/gazay/gon - Use rails variables in JavaScript
+* https://github.com/ai/autoprefixer-rails - Autoprefixer
+
+### Caching
+
+* http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
+* https://github.com/Shopify/identity_cache - Cool gem from shopify
+
+### Faye / Websockets
+
+* http://faye.jcoglan.com/browser.html
+* http://code.tutsplus.com/tutorials/how-to-use-faye-as-a-real-time-push-server-in-rails--net-22600
+* http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails
+* https://github.com/ryanb/private_pub
+* https://www.driftingruby.com/episodes/faye-websockets-part-1
+* https://www.driftingruby.com/episodes/faye-websockets-part-2
+
+### Testing
+
+* https://gist.github.com/zhengjia/428105 - Capybara cheat sheet
+
+### Apis
+
+* https://github.com/aserafin/grape_logging - Log for Grape
+
+### Asynchronous processing
+
+* https://github.com/utgarda/sidekiq-status
 * 
 
 ## NodeJS / JavaScript / React / Redux (no Angular..)
@@ -50,10 +88,12 @@
 * http://www.material-ui.com/#/components/snackbar - Material UI
 * https://wrapbootstrap.com/theme/velocity-designed-for-products-WB0N38R04 - Velocity UI
 * http://wrapbootstrap.com/preview/WB0DN19X0 - Idea
+* https://almsaeedstudio.com/ - Admin views
 
 ### Icons
 
 * https://speckyboy.com/2016/04/20/free-flat-ecommerce-icon-set/
+* http://themes-pixeden.com/font-demos/7-stroke/
 
 ## Security
 
