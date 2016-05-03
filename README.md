@@ -7,19 +7,31 @@
 * http://tmuxcheatsheet.com/ - Cheatsheet
 * https://github.com/tmuxinator/tmuxinator - Tmux sessions manager
 
+### Vim
+
+* https://github.com/carlhuda/janus
+* https://twitter.com/vimtips/status/686955891799764992 - Change content in block
+
+
 ## Ruby
 
 * https://blog.arkency.com/2016/02/private-classes-in-ruby/ - Private classes in Ruby
 * https://github.com/fakefs/fakefs - Fake filesystem for tests
 * https://github.com/twitter/secureheaders - Security related headers
 * http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/ - Adapter pattern in ruby
+* https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
 
 ## Ruby on Rails
 
-* https://github.com/amatsuda/stateful_enum - Simple state machine built on ActiveRecord::Enum
 * http://www.sitepoint.com/easily-allow-file-upload-rails-refile/ - Basic using of Refiel (File Uploader)
 * http://aserafin.pl/2016/02/19/side-effects-of-using-first-or-create-at-scale/ - Problem with first_or_create! on scale environments
 * https://github.com/norman/friendly_id - Friendly URLs'
+* https://github.com/byroot/bootscale/ - Speed up rails boot
+
+## ActiveRecord
+
+* https://github.com/laserlemon/vestal_versions - Version ruby models data
+* https://github.com/amatsuda/stateful_enum - Simple state machine built on ActiveRecord::Enum
 
 ### Assets
 
@@ -44,6 +56,10 @@
 
 * https://gist.github.com/zhengjia/428105 - Capybara cheat sheet
 
+### Code metrics
+
+* https://github.com/bglusman/debt_ceiling
+
 ### Apis
 
 * https://github.com/aserafin/grape_logging - Log for Grape
@@ -51,7 +67,7 @@
 ### Asynchronous processing
 
 * https://github.com/utgarda/sidekiq-status
-* 
+* https://github.com/st0012/ActiveJob-Cron - cron for AJ
 
 ## NodeJS / JavaScript / React / Redux (no Angular..)
 
@@ -77,11 +93,15 @@
 * https://github.com/kriasoft/react-starter-kit - Starter kit for react / express / webpack
 * https://github.com/vulpino/jolteon - Starter kit for Electron apps
 
-## CSS / UI / Frameworks
+## CSS / UI / Frameworks / JS (FE things)
 
 ### Tools
 
 * http://www.flexboxpatterns.com/ - Flexbox patterns 
+
+### Editors
+
+* http://summernote.org/examples/
 
 ### UI sets
 
@@ -95,7 +115,14 @@
 * https://speckyboy.com/2016/04/20/free-flat-ecommerce-icon-set/
 * http://themes-pixeden.com/font-demos/7-stroke/
 
+## Databases
+
+### PostgreSQL
+
+* http://tatiyants.com/postgres-query-plan-visualization/
+
 ## Security
 
 * https://github.com/MaciejCzyzewski/retter - Collection of **things** in security :-)
 * https://www.cybrary.it/course/comptia-security-plus/ - Free security training
+* https://freedomhacker.net/top-free-websites-to-learn-hacking-2016-4842/
