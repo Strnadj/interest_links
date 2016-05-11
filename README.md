@@ -12,7 +12,6 @@
 * https://github.com/carlhuda/janus
 * https://twitter.com/vimtips/status/686955891799764992 - Change content in block
 
-
 ## Ruby
 
 * https://blog.arkency.com/2016/02/private-classes-in-ruby/ - Private classes in Ruby
@@ -21,17 +20,20 @@
 * http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/ - Adapter pattern in ruby
 * https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
 
+
 ## Ruby on Rails
 
 * http://www.sitepoint.com/easily-allow-file-upload-rails-refile/ - Basic using of Refiel (File Uploader)
 * http://aserafin.pl/2016/02/19/side-effects-of-using-first-or-create-at-scale/ - Problem with first_or_create! on scale environments
 * https://github.com/norman/friendly_id - Friendly URLs'
 * https://github.com/byroot/bootscale/ - Speed up rails boot
+* https://github.com/iridakos/duckrails - Mock API endpoints
 
 ## ActiveRecord
 
 * https://github.com/laserlemon/vestal_versions - Version ruby models data
 * https://github.com/amatsuda/stateful_enum - Simple state machine built on ActiveRecord::Enum
+* https://github.com/JuanitoFatas/active_sample - Sample function of ActiveRecord relations
 
 ### Assets
 
@@ -126,3 +128,7 @@
 * https://github.com/MaciejCzyzewski/retter - Collection of **things** in security :-)
 * https://www.cybrary.it/course/comptia-security-plus/ - Free security training
 * https://freedomhacker.net/top-free-websites-to-learn-hacking-2016-4842/
+
+## Applications
+
+* https://github.com/cantino/huginn - Agents
