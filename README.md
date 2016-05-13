@@ -28,6 +28,17 @@
 * https://github.com/norman/friendly_id - Friendly URLs'
 * https://github.com/byroot/bootscale/ - Speed up rails boot
 * https://github.com/iridakos/duckrails - Mock API endpoints
+* https://github.com/orgsync/active_interaction - Simplify app logic with service interactions
+
+## Clean Code
+
+* https://medium.com/planet-arkency/the-biggest-rails-code-smell-you-should-avoid-to-keep-your-app-healthy-a61fd75ab2d3#.pr9q7ch0w
+* http://code.tutsplus.com/articles/antipatterns-basics-rails-tests--cms-26011
+
+### Utilities
+
+* rubocop
+* rubycritic
 
 ## ActiveRecord
 
@@ -39,11 +50,14 @@
 
 * https://github.com/gazay/gon - Use rails variables in JavaScript
 * https://github.com/ai/autoprefixer-rails - Autoprefixer
+* https://www.devmynd.com/blog/2014-9-setting-up-your-rails-app-for-javascript-testing/ - Javascript testing in RoR
+* https://github.com/SamSaffron/mini_racer - TheRubyRacer alternative
 
 ### Caching
 
 * http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
 * https://github.com/Shopify/identity_cache - Cool gem from shopify
+* https://www.driftingruby.com/episodes/fragment-caching - Fragment caching simply
 
 ### Faye / Websockets
 
@@ -72,6 +86,10 @@
 * https://github.com/st0012/ActiveJob-Cron - cron for AJ
 
 ## NodeJS / JavaScript / React / Redux (no Angular..)
+
+### General JS
+
+* http://www.sitepoint.com/proper-error-handling-javascript/
 
 ### Books / Articles
 
