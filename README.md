@@ -100,6 +100,17 @@
 ### Tools
 
 * http://www.flexboxpatterns.com/ - Flexbox patterns 
+* http://github.hubspot.com/odometer/docs/welcome/ - Odo Meter
+* http://alvarotrigo.com/fullPage/ - Full page
+
+### Chart libraries
+
+* http://www.chartjs.org/
+
+### Modals
+
+* http://humaan.com/modaal/
+* http://github.hubspot.com/vex/docs/welcome/
 
 ### Editors
 
