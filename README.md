@@ -2,6 +2,9 @@
 
 ## General
 
+* http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html - System OS X Settings (ZSH, brew etc..)
+* http://hocusfoc.us/ - Hide your inactive windows
+
 ### Tmux
 
 * http://tmuxcheatsheet.com/ - Cheatsheet
