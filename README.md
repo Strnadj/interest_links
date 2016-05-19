@@ -32,6 +32,9 @@
 * https://github.com/byroot/bootscale/ - Speed up rails boot
 * https://github.com/iridakos/duckrails - Mock API endpoints
 * https://github.com/orgsync/active_interaction - Simplify app logic with service interactions
+* http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/ - Realtime quiz with RoR and React
+* http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html
+* https://github.com/phatworx/devise_security_extension
 
 ## Clean Code
 
@@ -48,6 +51,8 @@
 * https://github.com/laserlemon/vestal_versions - Version ruby models data
 * https://github.com/amatsuda/stateful_enum - Simple state machine built on ActiveRecord::Enum
 * https://github.com/JuanitoFatas/active_sample - Sample function of ActiveRecord relations
+* https://github.com/thoughtbot/scenic - Views in RoR migrations
+* https://github.com/IFTTT/polo - Create clean data from your db structure
 
 ### Assets
 
@@ -93,6 +98,7 @@
 ### General JS
 
 * http://www.sitepoint.com/proper-error-handling-javascript/
+* https://www.talater.com/upup/ - Page always up
 
 ### Books / Articles
 
@@ -123,6 +129,9 @@
 * http://www.flexboxpatterns.com/ - Flexbox patterns 
 * http://github.hubspot.com/odometer/docs/welcome/ - Odo Meter
 * http://alvarotrigo.com/fullPage/ - Full page
+* https://codyhouse.co/ - Cool set of UI components and views
+* https://github.com/InterNations/antwort - Email templates
+* http://tympanus.net/Development/TextInputEffects/index.html - Cool efects
 
 ### Chart libraries
 
@@ -143,11 +152,14 @@
 * https://wrapbootstrap.com/theme/velocity-designed-for-products-WB0N38R04 - Velocity UI
 * http://wrapbootstrap.com/preview/WB0DN19X0 - Idea
 * https://almsaeedstudio.com/ - Admin views
+* http://html5up.net/ - HTML 5 templates
 
 ### Icons
 
 * https://speckyboy.com/2016/04/20/free-flat-ecommerce-icon-set/
 * http://themes-pixeden.com/font-demos/7-stroke/
+* http://www.linea.io/
+* https://speckyboy.com/2014/05/14/more-free-icon-fonts/
 
 ## Databases
 
