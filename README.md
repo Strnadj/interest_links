@@ -22,6 +22,7 @@
 * https://github.com/twitter/secureheaders - Security related headers
 * http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/ - Adapter pattern in ruby
 * https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
+* https://github.com/chaps-io/gush - Parallel workflows
 
 
 ## Ruby on Rails
