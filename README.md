@@ -54,6 +54,7 @@
 * https://github.com/JuanitoFatas/active_sample - Sample function of ActiveRecord relations
 * https://github.com/thoughtbot/scenic - Views in RoR migrations
 * https://github.com/IFTTT/polo - Create clean data from your db structure
+* https://github.com/chaps-io/public_activity - Public activities for models (like Github repositories)
 
 ### Assets
 
