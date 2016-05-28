@@ -17,6 +17,7 @@
 
 ## Ruby
 
+* http://www.mikeperham.com/2016/05/17/commercial-gems/ - Serving commercial gems from own server
 * https://blog.arkency.com/2016/02/private-classes-in-ruby/ - Private classes in Ruby
 * https://github.com/fakefs/fakefs - Fake filesystem for tests
 * https://github.com/twitter/secureheaders - Security related headers
