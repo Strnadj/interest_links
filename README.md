@@ -4,6 +4,10 @@
 
 * http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html - System OS X Settings (ZSH, brew etc..)
 * http://hocusfoc.us/ - Hide your inactive windows
+* https://www.charlesproxy.com/ - Super cool proxy
+* https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers - First 5 minutes on new server
+* https://litmus.com/ - Test your email templates
+* https://github.com/sj26/mailcatcher - Mail testing
 
 ### Tmux
 
@@ -17,6 +21,8 @@
 
 ## Ruby
 
+* http://dry-rb.org/gems/
+* https://github.com/mmozuras/pronto - Check ruby code
 * http://www.mikeperham.com/2016/05/17/commercial-gems/ - Serving commercial gems from own server
 * https://blog.arkency.com/2016/02/private-classes-in-ruby/ - Private classes in Ruby
 * https://github.com/fakefs/fakefs - Fake filesystem for tests
@@ -24,7 +30,11 @@
 * http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/ - Adapter pattern in ruby
 * https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
 * https://github.com/chaps-io/gush - Parallel workflows
+* http://blog.skylight.io/hunting-for-leaks-in-ruby/ - Hunting memory leaks in ruby
 
+### Frameworks
+
+* https://pakyow.org/ - Another RubyOnRails-Like framework
 
 ## Ruby on Rails
 
@@ -47,6 +57,7 @@
 
 * rubocop
 * rubycritic
+* https://github.com/square/cane
 
 ## ActiveRecord
 
@@ -59,6 +70,7 @@
 
 ### Assets
 
+* http://nandovieira.com/using-es2015-with-asset-pipeline-on-ruby-on-rails - ES6 assets pipeline
 * https://github.com/gazay/gon - Use rails variables in JavaScript
 * https://github.com/ai/autoprefixer-rails - Autoprefixer
 * https://www.devmynd.com/blog/2014-9-setting-up-your-rails-app-for-javascript-testing/ - Javascript testing in RoR
@@ -69,6 +81,7 @@
 * http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
 * https://github.com/Shopify/identity_cache - Cool gem from shopify
 * https://www.driftingruby.com/episodes/fragment-caching - Fragment caching simply
+* https://github.com/blendle/object-cache - Object cache in ruby
 
 ### Faye / Websockets
 
@@ -102,6 +115,7 @@
 
 * http://www.sitepoint.com/proper-error-handling-javascript/
 * https://www.talater.com/upup/ - Page always up
+* https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md - Functional programming jargon
 
 ### Books / Articles
 
@@ -119,9 +133,11 @@
 ### Libraries
 
 * https://github.com/Netflix/falcor - JS library for efficient data fetching
+* http://leafletjs.com/examples.html - JS Map tool
 
 ### Starter kits
 
+* https://github.com/mxstbr/react-boilerplate - Boilerplate for react
 * https://github.com/kriasoft/react-starter-kit - Starter kit for react / express / webpack
 * https://github.com/vulpino/jolteon - Starter kit for Electron apps
 
@@ -129,11 +145,18 @@
 
 ### Tools
 
+* https://nickersoft.github.io/push.js/ - Push in browser simply
+* http://www.vanillalist.com/ - List of plugins without JQuery
 * http://www.flexboxpatterns.com/ - Flexbox patterns 
 * http://github.hubspot.com/odometer/docs/welcome/ - Odo Meter
 * http://alvarotrigo.com/fullPage/ - Full page
 * https://codyhouse.co/ - Cool set of UI components and views
 * https://github.com/InterNations/antwort - Email templates
+
+### Effects
+
+* https://sarasoueidan.com/demos/navicon-transformicons/ - Hamburger menu
+* http://tympanus.net/Development/NotificationStyles/attached-bouncyflip.html
 * http://tympanus.net/Development/TextInputEffects/index.html - Cool efects
 
 ### Chart libraries
@@ -163,6 +186,8 @@
 * http://themes-pixeden.com/font-demos/7-stroke/
 * http://www.linea.io/
 * https://speckyboy.com/2014/05/14/more-free-icon-fonts/
+* http://evil-icons.io/
+* https://github.com/smcllns/css-social-buttons
 
 ## Databases
 
@@ -172,6 +197,7 @@
 
 ## Security
 
+* http://pastebin.com/raw/0SNSvyjJ - HackBack guide
 * https://github.com/MaciejCzyzewski/retter - Collection of **things** in security :-)
 * https://www.cybrary.it/course/comptia-security-plus/ - Free security training
 * https://freedomhacker.net/top-free-websites-to-learn-hacking-2016-4842/
