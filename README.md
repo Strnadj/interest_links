@@ -158,6 +158,7 @@
 * https://sarasoueidan.com/demos/navicon-transformicons/ - Hamburger menu
 * http://tympanus.net/Development/NotificationStyles/attached-bouncyflip.html
 * http://tympanus.net/Development/TextInputEffects/index.html - Cool efects
+* http://barbajs.org/demos.html - Switch between two pages with effects
 
 ### Chart libraries
 
