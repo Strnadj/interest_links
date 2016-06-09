@@ -48,7 +48,12 @@
 * http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html
 * https://github.com/phatworx/devise_security_extension
 
-## Clean Code
+### Security scanners
+
+* https://github.com/thesp0nge/dawnscanner
+* http://brakemanscanner.org/
+
+### Clean Code
 
 * https://medium.com/planet-arkency/the-biggest-rails-code-smell-you-should-avoid-to-keep-your-app-healthy-a61fd75ab2d3#.pr9q7ch0w
 * http://code.tutsplus.com/articles/antipatterns-basics-rails-tests--cms-26011
