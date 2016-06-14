@@ -47,6 +47,7 @@
 * http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/ - Realtime quiz with RoR and React
 * http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html
 * https://github.com/phatworx/devise_security_extension
+* http://dev.edenspiekermann.com/2016/06/02/using-mjml-in-rails/ - MJML cool emails in RoR
 
 ### Security scanners
 
