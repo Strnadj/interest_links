@@ -8,6 +8,15 @@
 * https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers - First 5 minutes on new server
 * https://litmus.com/ - Test your email templates
 * https://github.com/sj26/mailcatcher - Mail testing
+* https://gitlab.com/gitlab-org/gitlab-ee - Gitlab yml examples for build RoR apps
+
+### Server tools
+
+* https://mxtoolbox.com/ - Check mail blacklists
+
+### Design
+
+* https://github.com/NoDivide/astrum - Pattern
 
 ### Tmux
 
@@ -53,6 +62,7 @@
 
 * https://github.com/thesp0nge/dawnscanner
 * http://brakemanscanner.org/
+* https://hakiri.io/facets - Test your Gemfile
 
 ### Clean Code
 
@@ -122,6 +132,7 @@
 * http://www.sitepoint.com/proper-error-handling-javascript/
 * https://www.talater.com/upup/ - Page always up
 * https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md - Functional programming jargon
+* https://github.com/systemjs/systemjs - Dynamic module loader
 
 ### Books / Articles
 
@@ -133,6 +144,7 @@
 
 ### Tests
 
+* http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/ - TDD for JS
 * https://github.com/sindresorhus/ava - Cool test runner
 * https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.dgkdh8q4d - Testing in react
 
@@ -141,11 +153,19 @@
 * https://github.com/Netflix/falcor - JS library for efficient data fetching
 * http://leafletjs.com/examples.html - JS Map tool
 
+### Security scanners
+
+* https://jacks.codiscope.com/
+
 ### Starter kits
 
 * https://github.com/mxstbr/react-boilerplate - Boilerplate for react
 * https://github.com/kriasoft/react-starter-kit - Starter kit for react / express / webpack
+
+### Electron
+
 * https://github.com/vulpino/jolteon - Starter kit for Electron apps
+* https://github.com/sindresorhus/awesome-electron - Example applications and more
 
 ## CSS / UI / Frameworks / JS (FE things)
 
@@ -158,6 +178,7 @@
 * http://alvarotrigo.com/fullPage/ - Full page
 * https://codyhouse.co/ - Cool set of UI components and views
 * https://github.com/InterNations/antwort - Email templates
+* http://alexgorbatchev.com/SyntaxHighlighter/ - Syntax highlighter
 
 ### Effects
 
@@ -174,6 +195,7 @@
 
 * http://humaan.com/modaal/
 * http://github.hubspot.com/vex/docs/welcome/
+* https://github.com/fabien-d/alertify.js/pull/173
 
 ### Editors
 
@@ -208,7 +230,9 @@
 * https://github.com/MaciejCzyzewski/retter - Collection of **things** in security :-)
 * https://www.cybrary.it/course/comptia-security-plus/ - Free security training
 * https://freedomhacker.net/top-free-websites-to-learn-hacking-2016-4842/
+* https://github.com/owtf/owtf
 
 ## Applications
 
 * https://github.com/cantino/huginn - Agents
+* https://sparkle-project.org/ - Update manager
