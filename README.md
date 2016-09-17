@@ -9,6 +9,7 @@
 * https://litmus.com/ - Test your email templates
 * https://github.com/sj26/mailcatcher - Mail testing
 * https://gitlab.com/gitlab-org/gitlab-ee - Gitlab yml examples for build RoR apps
+* https://github.com/sqlectron/sqlectron-gui- Sql electron
 
 ### Server tools
 
@@ -40,6 +41,7 @@
 * https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
 * https://github.com/chaps-io/gush - Parallel workflows
 * http://blog.skylight.io/hunting-for-leaks-in-ruby/ - Hunting memory leaks in ruby
+* https://github.com/bear-metal/tunemygc - Tune GC
 
 ### Frameworks
 
@@ -57,6 +59,7 @@
 * http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html
 * https://github.com/phatworx/devise_security_extension
 * http://dev.edenspiekermann.com/2016/06/02/using-mjml-in-rails/ - MJML cool emails in RoR
+* http://www.norydev.com/writing/journey-of-a-trailblazer-part-1 - Trailblazer architecture
 
 ### Security scanners
 
@@ -74,6 +77,7 @@
 * rubocop
 * rubycritic
 * https://github.com/square/cane
+* https://github.com/Brantron/john_hancock - Custom forms for signatures
 
 ## ActiveRecord
 
@@ -133,6 +137,10 @@
 * https://www.talater.com/upup/ - Page always up
 * https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md - Functional programming jargon
 * https://github.com/systemjs/systemjs - Dynamic module loader
+* https://mythbusters.js.org/function/new.html
+* http://blog.js-republic.com/keep-npm-dependencies-up-to-date/ - Npm dependency up to date
+* https://github.com/RafalWilinski/express-status-monitor - express js monitor
+* https://github.com/FormidableLabs/webpack-dashboard - Webpack dashboard
 
 ### Books / Articles
 
@@ -179,6 +187,19 @@
 * https://codyhouse.co/ - Cool set of UI components and views
 * https://github.com/InterNations/antwort - Email templates
 * http://alexgorbatchev.com/SyntaxHighlighter/ - Syntax highlighter
+* https://github.com/camwiegert/in-view - "In view" event in pure JavaScript (noJquery)
+
+### Music
+
+* https://github.com/goldfire/howler.js#documentation
+
+### Date pickers
+
+* https://github.com/airbnb/react-dates - AirBNB date picker (with React extension)
+
+### Galleries
+
+* https://sachinchoolur.github.io/lightgallery.js/demos/index.html
 
 ### Effects
 
@@ -186,6 +207,9 @@
 * http://tympanus.net/Development/NotificationStyles/attached-bouncyflip.html
 * http://tympanus.net/Development/TextInputEffects/index.html - Cool efects
 * http://barbajs.org/demos.html - Switch between two pages with effects
+* http://scrollanim.kissui.io/ - Scroll animations
+* https://sarcadass.github.io/granim.js/examples.html - Basic gradient animations
+* https://nosir.github.io/cleave.js/ - Format <input> tags
 
 ### Chart libraries
 
