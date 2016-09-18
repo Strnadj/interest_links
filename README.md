@@ -175,6 +175,10 @@
 * https://github.com/vulpino/jolteon - Starter kit for Electron apps
 * https://github.com/sindresorhus/awesome-electron - Example applications and more
 
+### Apps
+
+* https://github.com/Imaginarydesign/webdev-checklist - Cool "extended" checklist app
+
 ## CSS / UI / Frameworks / JS (FE things)
 
 ### Tools
@@ -188,6 +192,7 @@
 * https://github.com/InterNations/antwort - Email templates
 * http://alexgorbatchev.com/SyntaxHighlighter/ - Syntax highlighter
 * https://github.com/camwiegert/in-view - "In view" event in pure JavaScript (noJquery)
+* http://sharingbuttons.io/ - Sharing buttons
 
 ### Music
 
@@ -210,6 +215,8 @@
 * http://scrollanim.kissui.io/ - Scroll animations
 * https://sarcadass.github.io/granim.js/examples.html - Basic gradient animations
 * https://nosir.github.io/cleave.js/ - Format <input> tags
+* http://www.cssfilters.co/ - CSS filters
+* https://matejkustec.github.io/SpinThatShit/ - Spinners
 
 ### Chart libraries
 
