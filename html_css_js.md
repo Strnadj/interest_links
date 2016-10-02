@@ -13,6 +13,10 @@
 * https://github.com/camwiegert/in-view - "In view" event in pure JavaScript (noJquery)
 * http://sharingbuttons.io/ - Sharing buttons
 
+## Templates
+
+* [Admin Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)
+
 ## Music
 
 * https://github.com/goldfire/howler.js#documentation
@@ -36,10 +40,12 @@
 * https://nosir.github.io/cleave.js/ - Format <input> tags
 * http://www.cssfilters.co/ - CSS filters
 * https://matejkustec.github.io/SpinThatShit/ - Spinners
+* [Text-Only CSS Spinners](http://tawian.io/text-spinners/)
 
 ## Chart libraries
 
 * http://www.chartjs.org/
+* [Canvas Gauges](https://canvas-gauges.com/)
 
 ## Modals
 

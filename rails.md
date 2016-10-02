@@ -70,3 +70,4 @@
 ## Code metrics
 
 * https://github.com/bglusman/debt_ceiling
+* [Open Source NewRelic](https://github.com/randy-girard/app_perf)
