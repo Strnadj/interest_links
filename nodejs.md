@@ -25,6 +25,7 @@
 ## React
 
 * [Animations](https://github.com/FormidableLabs/react-animations)
+* [ReactCharts `<Recharts/>`](http://recharts.org/api/#AreaChart)
 
 ## React Native
 
