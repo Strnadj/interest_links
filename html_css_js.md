@@ -50,6 +50,7 @@
 * https://matejkustec.github.io/SpinThatShit/ - Spinners
 * [Text-Only CSS Spinners](http://tawian.io/text-spinners/)
 * [Bootstrap - Image Zoomer](https://github.com/marcaube/bootstrap-magnify)
+* [Really cool SVG responsive progress bars!](https://kimmobrunfeldt.github.io/progressbar.js/)
 
 ## Chart libraries
 
