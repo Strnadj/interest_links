@@ -12,6 +12,13 @@
 * http://alexgorbatchev.com/SyntaxHighlighter/ - Syntax highlighter
 * https://github.com/camwiegert/in-view - "In view" event in pure JavaScript (noJquery)
 * http://sharingbuttons.io/ - Sharing buttons
+* [Picturefill `<picture>` tag polyfill](https://scottjehl.github.io/picturefill/)
+* [CSS Search Engine in Lists](https://jets.js.org/)
+* [Styleguide Generator](http://atomicdocs.io/)
+
+## Images
+
+* [Background "Hero" Patterns](http://www.heropatterns.com/)
 
 ## Templates
 
@@ -24,6 +31,7 @@
 ## Date pickers
 
 * https://github.com/airbnb/react-dates - AirBNB date picker (with React extension)
+* [Flatpicker (no dependencies) datetimepicker](https://chmln.github.io/flatpickr/)
 
 ## Galleries
 
@@ -41,6 +49,7 @@
 * http://www.cssfilters.co/ - CSS filters
 * https://matejkustec.github.io/SpinThatShit/ - Spinners
 * [Text-Only CSS Spinners](http://tawian.io/text-spinners/)
+* [Bootstrap - Image Zoomer](https://github.com/marcaube/bootstrap-magnify)
 
 ## Chart libraries
 
@@ -61,9 +70,11 @@
 
 * http://www.material-ui.com/#/components/snackbar - Material UI
 * https://wrapbootstrap.com/theme/velocity-designed-for-products-WB0N38R04 - Velocity UI
+* [Materialize](http://materializecss.com/)
 * http://wrapbootstrap.com/preview/WB0DN19X0 - Idea
 * https://almsaeedstudio.com/ - Admin views
 * http://html5up.net/ - HTML 5 templates
+* [UIKit](https://getuikit.com/docs/form-select.html)
 
 ## Icons
 
@@ -73,3 +84,5 @@
 * https://speckyboy.com/2014/05/14/more-free-icon-fonts/
 * http://evil-icons.io/
 * https://github.com/smcllns/css-social-buttons
+* [100 line icons](http://www.gonzodesign.nl/gonzocons/)
+* [Weather Icons](https://erikflowers.github.io/weather-icons/)
