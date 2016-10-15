@@ -65,6 +65,7 @@
 
 ## Testing
 
+* [Better Specs - rspec guildeline](http://betterspecs.org/#subject)
 * https://gist.github.com/zhengjia/428105 - Capybara cheat sheet
 
 ## Code metrics
