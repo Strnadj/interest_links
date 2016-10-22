@@ -87,3 +87,4 @@
 * https://github.com/smcllns/css-social-buttons
 * [100 line icons](http://www.gonzodesign.nl/gonzocons/)
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
+* http://streamlineicons.com/free-icons.html
