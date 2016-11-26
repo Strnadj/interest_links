@@ -19,6 +19,7 @@
 ## Apis
 
 * https://github.com/aserafin/grape_logging - Log for Grape
+* [https://github.com/nbulaj/grape_oauth2](Oauth2 for Grape)
 
 ## Asynchronous processing
 
