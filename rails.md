@@ -38,6 +38,7 @@
 * https://github.com/thoughtbot/scenic - Views in RoR migrations
 * https://github.com/IFTTT/polo - Create clean data from your db structure
 * https://github.com/chaps-io/public_activity - Public activities for models (like Github repositories)
+* [http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/](Database best practices - merge, object query)
 
 ## Assets
 
