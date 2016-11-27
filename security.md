@@ -9,3 +9,7 @@
 ## NodeJS
 
 * [Tips to not get pwned with express ](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
+
+## Scanners
+
+* [https://github.com/Ekultek/whitewidow](SQL injection scanner)

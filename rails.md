@@ -11,6 +11,23 @@
 * https://github.com/phatworx/devise_security_extension
 * http://dev.edenspiekermann.com/2016/06/02/using-mjml-in-rails/ - MJML cool emails in RoR
 * http://www.norydev.com/writing/journey-of-a-trailblazer-part-1 - Trailblazer architecture
+* [Migrate from Sprockets to Webpack](https://medium.com/@joaomilho/migrating-from-rails-asset-pipeline-to-node-s-webpack-684230e3a93a#.igqd5qesc)
+* [Integrate Google Calendar](http://readysteadycode.com/howto-integrate-google-calendar-with-rails)
+* [Readthis - cache](https://github.com/sorentwo/readthis)
+* [RackAttack - protect your rails app](https://github.com/kickstarter/rack-attack)
+* [Dynamic Sitemap generator](https://github.com/lassebunk/dynamic_sitemaps)
+* [Turn Your controller into
+  Wizzard](https://github.com/schneems/wicked)
+* [CRUD Javascript Api for Rails](https://github.com/Nedomas/databound-rails)
+* [Nested FORMS](https://github.com/nathanvda/cocoon)
+* [Serve Static Pages](https://github.com/thoughtbot/high_voltage)
+* [Decorator/View-models for Rails](https://github.com/drapergem/draper)
+
+## Deployment
+
+* Mina
+* Capistrano
+* [Cleanup capistrano deploy](http://jondavidjohn.com/cleaning-up-capistrano-deployment-output/)
 
 ## Security scanners
 
@@ -38,7 +55,10 @@
 * https://github.com/thoughtbot/scenic - Views in RoR migrations
 * https://github.com/IFTTT/polo - Create clean data from your db structure
 * https://github.com/chaps-io/public_activity - Public activities for models (like Github repositories)
-* [http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/](Database best practices - merge, object query)
+* [Database best practices - merge, object query](http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
+* [Validation in log](https://github.com/BMorearty/whiny_validation)
+* [Geokit ActiveRecord](https://github.com/geokit/geokit-rails)
+* [From SQL to Arel](http://www.scuttle.io/)
 
 ## Assets
 
@@ -47,6 +67,7 @@
 * https://github.com/ai/autoprefixer-rails - Autoprefixer
 * https://www.devmynd.com/blog/2014-9-setting-up-your-rails-app-for-javascript-testing/ - Javascript testing in RoR
 * https://github.com/SamSaffron/mini_racer - TheRubyRacer alternative
+* [Autoprefixer](https://github.com/ai/autoprefixer-rails)
 
 ## Caching
 

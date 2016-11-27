@@ -15,14 +15,28 @@
 * [Picturefill `<picture>` tag polyfill](https://scottjehl.github.io/picturefill/)
 * [CSS Search Engine in Lists](https://jets.js.org/)
 * [Styleguide Generator](http://atomicdocs.io/)
+* [FlexBox patterns](http://www.flexboxpatterns.com/)
+* [Style linter](http://stylelint.io/)
+* [Table Persistent Headers](https://css-tricks.com/examples/PersistantHeaders/)
 
 ## Images
 
 * [Background "Hero" Patterns](http://www.heropatterns.com/)
 
+## UI Toolkits
+
+* [Blueprint React UI toolikt](http://blueprintjs.com/)
+
 ## Templates
 
 * [Admin Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)
+* [Amaretti](http://wrapbootstrap.com/preview/WB0696K5S)
+* [Absolute Admin](http://wrapbootstrap.com/preview/WB0822090)
+* [Flatify](http://wrapbootstrap.com/preview/WB0977873)
+
+## Styles
+
+* [Schedule Template](https://codyhouse.co/gem/schedule-template/)
 
 ## Music
 
@@ -32,6 +46,11 @@
 
 * https://github.com/airbnb/react-dates - AirBNB date picker (with React extension)
 * [Flatpicker (no dependencies) datetimepicker](https://chmln.github.io/flatpickr/)
+
+## Maps
+
+* [Leaflet - open source](http://leafletjs.com/)
+* http://openlayers.org/en/v3.0.0/examples/vector-layer.html
 
 ## Galleries
 
@@ -88,3 +107,4 @@
 * [100 line icons](http://www.gonzodesign.nl/gonzocons/)
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * http://streamlineicons.com/free-icons.html
+* [Icon8](https://icons8.com/web-app/new-icons/all)

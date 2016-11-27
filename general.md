@@ -12,6 +12,10 @@
 
 * [Check mail blacklists](https://mxtoolbox.com/)
 
+## CI
+
+* [CircleCI](https://circleci.com/)
+
 ## Design
 
 * https://github.com/NoDivide/astrum - Pattern
@@ -31,3 +35,9 @@
 * https://github.com/cantino/huginn - Agents
 * https://sparkle-project.org/ - Update manager
 * [Guide for SQL in Electron](https://github.com/sqlectron/sqlectron-gui)
+
+## Others
+
+* [https://x3ro.de/2013/09/12/link-assembly-routine-with-c-on-osx.html](Link
+  assembler code on OS X)
+

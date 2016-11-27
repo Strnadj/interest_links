@@ -10,11 +10,21 @@
 * https://github.com/Nguyenanh/fastgem/ - Searching in ruby gems simply
 * https://github.com/chaps-io/gush - Parallel workflows
 * http://blog.skylight.io/hunting-for-leaks-in-ruby/ - Hunting memory leaks in ruby
-* https://github.com/bear-metal/tunemygc - Tune GC
+* [Tune GC Profiler](https://github.com/bear-metal/tunemygc)
+* [PerfTools](https://github.com/tmm1/perftools.rb)
+* [Coverband - monitore production LOC of using](https://github.com/danmayer/coverband)
+* [Progress Bar](https://github.com/jfelchner/ruby-progressbar)
+* [Terminal Table](https://github.com/tj/terminal-table)
+* [Ruby C API](https://silverhammermba.github.io/emberb/c/)
+
+## Libraries
+
+* [ElasticSearch Client](https://github.com/toptal/chewy)
 
 ## Frameworks
 
 * https://pakyow.org/ - Another RubyOnRails-Like framework
+* [Midori](https://github.com/heckpsi-lab/em-midori)
 
 ## Apis
 
