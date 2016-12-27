@@ -27,6 +27,10 @@
 * [Progressive Web Apps with React.js](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.nru75qvla)
 * [Progressive Web Apps 2](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.pax0d2boz)
 
+* [https://github.com/verekia/js-stack-from-scratch](Build Stack from Scratch)
+* [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.dtz6ub3w3](What is a Closure?)
+
+
 ## React
 
 * [Animations](https://github.com/FormidableLabs/react-animations)
@@ -35,6 +39,7 @@
 * [React Select](https://jedwatson.github.io/react-select/)
 * [React on Rails](https://product.reverb.com/react-on-rails-9936283aea07#.y8nh602hz)
 * [React JS Forms](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
+* [https://facebook.github.io/draft-js/](React editor)
 
 ### React Boilerplates
 
