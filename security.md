@@ -13,3 +13,11 @@
 ## Scanners
 
 * [https://github.com/Ekultek/whitewidow](SQL injection scanner)
+
+## SQLInjections
+
+* [https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/](SQL Injection Cheat Sheet)
+
+## Wordpress
+
+* [https://speckyboy.com/10-free-plugins-secure-wordpress-website/](Top 10 free plugins to secure WP)
