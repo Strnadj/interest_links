@@ -18,6 +18,11 @@
 * [FlexBox patterns](http://www.flexboxpatterns.com/)
 * [Style linter](http://stylelint.io/)
 * [Table Persistent Headers](https://css-tricks.com/examples/PersistantHeaders/)
+* [Test how mobile-friendly your site is](https://testmysite.thinkwithgoogle.com/intl/en-in)
+
+## Tooltips
+
+* [Kickass Tooltips!](https://popper.js.org/)
 
 ## Images
 
@@ -26,6 +31,9 @@
 ## UI Toolkits
 
 * [Blueprint React UI toolikt](http://blueprintjs.com/)
+* [Ant.design](https://ant.design/docs/spec/introduce)
+* [Ant.design (layout)](https://ant.design/docs/spec/layout)
+* [Flat admin v 3](http://tui2tone.github.io/flat-admin-bootstrap-templates/html/index.html)
 
 ## Templates
 

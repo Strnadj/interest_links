@@ -22,6 +22,16 @@
 * [Nested FORMS](https://github.com/nathanvda/cocoon)
 * [Serve Static Pages](https://github.com/thoughtbot/high_voltage)
 * [Decorator/View-models for Rails](https://github.com/drapergem/draper)
+* [Invisible Captcha](https://github.com/markets/invisible_captcha)
+
+## Interview questions
+
+* https://www.toptal.com/ruby-on-rails/interview-questions
+* https://www.toptal.com/ruby/interview-questions
+
+## Rails replacement
+
+* https://www.pakyow.com/
 
 ## Deployment
 
@@ -34,6 +44,7 @@
 * https://github.com/thesp0nge/dawnscanner
 * http://brakemanscanner.org/
 * https://hakiri.io/facets - Test your Gemfile
+* [Common rails security pitfals](https://www.sitepoint.com/common-rails-security-pitfalls-and-their-solutions/)
 
 ## Clean Code
 
@@ -59,6 +70,7 @@
 * [Validation in log](https://github.com/BMorearty/whiny_validation)
 * [Geokit ActiveRecord](https://github.com/geokit/geokit-rails)
 * [From SQL to Arel](http://www.scuttle.io/)
+* [Money Types](https://glaucocustodio.github.io/2016/12/13/leveraging-rails-money-type/)
 
 ## Assets
 
@@ -68,6 +80,7 @@
 * https://www.devmynd.com/blog/2014-9-setting-up-your-rails-app-for-javascript-testing/ - Javascript testing in RoR
 * https://github.com/SamSaffron/mini_racer - TheRubyRacer alternative
 * [Autoprefixer](https://github.com/ai/autoprefixer-rails)
+* [How sprockets work?](https://www.schneems.com/2016/12/20/how-the-f-does-sprockets-load-an-asset/)
 
 ## Caching
 

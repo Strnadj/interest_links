@@ -14,6 +14,14 @@
 * [Optimize JS loading (wrap functions)](https://github.com/nolanlawson/optimize-js)
 * [Debugging node js in Chrome Webtools](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools)
 * [Offline Workers](https://madebymike.com.au//writing/service-workers/)
+* [Loading and unloading behaviour](http://conditionerjs.com/)
+* [JavaScript formatter (support JSX)](https://github.com/jlongster/prettier)
+* [Async Await Bible](https://medium.com/@peterchang_82818/asycn-await-bible-sequential-parallel-and-nest-4d1db7b8b95c#.hli2irs37)
+* [Top JS in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.41ytrx5zx)
+* [Intelligent JS tooling](https://ternjs.net/)
+* [Static types JS](https://flowtype.org/)
+* [Moment JS Replacement](https://date-fns.org/)
+* [i18n](http://i18next.com/translate/)
 
 ## Books / Articles
 
@@ -28,7 +36,9 @@
 * [Progressive Web Apps 2](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.pax0d2boz)
 * [Build Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 * [What is a closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.dtz6ub3w3)
-* [YELP clone](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+* [Clean Code - Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [React lessons](https://egghead.io/technologies/react)
+* [Why use static typing in JS?](https://dev.to/iampeekay/why-use-static-types-in-javascript-part-1)
 
 
 ## React
@@ -41,6 +51,12 @@
 * [React JS Forms](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 * [React editor](https://facebook.github.io/draft-js/)
 * [Best practicies for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+* [Uber mobile web](https://github.com/narendrashetty/uber-mobile-web)
+* [React Interview](https://tylermcginnis.com/react-interview-questions/)
+
+### React replacement
+
+* [InfernoJS](https://www.infernojs.org/)
 
 ### React Boilerplates
 
@@ -49,8 +65,11 @@
 
 ## React Native
 
+* [CLI generator](https://github.com/infinitered/ignite)
 * [Native Maps from Airbnb](https://github.com/airbnb/react-native-maps)
 * [Shoutem UI](https://shoutem.github.io/)
+* [Chat APP in 30 minutes](https://www.youtube.com/watch?v=VTnFDc3IFag)
+* [Graybox E2E](https://github.com/wix/detox)
 
 ## React / Redux
 
@@ -91,3 +110,6 @@
 ## Apps
 
 * https://github.com/Imaginarydesign/webdev-checklist - Cool "extended" checklist app
+* [YELP clone](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+* [App status bar - Electron](https://github.com/ningt/iStats)
+* [User login and auth app](https://www.sitepoint.com/tutorial-build-a-react-js-application-with-user-login-and-authentication/)

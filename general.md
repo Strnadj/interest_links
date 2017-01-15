@@ -22,6 +22,7 @@
 
 ## Tmux
 
+* [Learn TMUX](https://thoughtbot.com/upcase/tmux)
 * http://tmuxcheatsheet.com/ - Cheatsheet
 * https://github.com/tmuxinator/tmuxinator - Tmux sessions manager
 

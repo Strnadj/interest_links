@@ -16,6 +16,11 @@
 * [Progress Bar](https://github.com/jfelchner/ruby-progressbar)
 * [Terminal Table](https://github.com/tj/terminal-table)
 * [Ruby C API](https://silverhammermba.github.io/emberb/c/)
+* [Writing a C extension](https://www.xavierriley.co.uk/writing-a-c-extension-for-ruby-in-2016/)
+
+## Testing
+
+* [Common fct across ruby](http://lizabinante.com/blog/testing-common-functionality-in-ruby/)
 
 ## Libraries
 
@@ -25,6 +30,7 @@
 
 * https://pakyow.org/ - Another RubyOnRails-Like framework
 * [Midori](https://github.com/heckpsi-lab/em-midori)
+* [Realtime APPS](https://github.com/firehoseio/firehose)
 
 ## Apis
 
