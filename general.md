@@ -4,13 +4,17 @@
 * http://hocusfoc.us/ - Hide your inactive windows
 * https://www.charlesproxy.com/ - Super cool proxy
 * https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers - First 5 minutes on new server
-* https://litmus.com/ - Test your email templates
-* https://github.com/sj26/mailcatcher - Mail testing
 * https://gitlab.com/gitlab-org/gitlab-ee - Gitlab yml examples for build RoR apps
 
 ## Server tools
 
 * [Check mail blacklists](https://mxtoolbox.com/)
+* [Monitor server traffic](http://www.binarytides.com/linux-commands-monitor-network/)
+
+## Testing
+
+* [Email in different clients](https://litmus.com/)
+* [Dummy mail smtp server](https://github.com/sj26/mailcatcher)
 
 ## CI
 
@@ -18,13 +22,13 @@
 
 ## Design
 
-* https://github.com/NoDivide/astrum - Pattern
+* [Patterns](https://github.com/NoDivide/astrum)
 
 ## Tmux
 
 * [Learn TMUX](https://thoughtbot.com/upcase/tmux)
-* http://tmuxcheatsheet.com/ - Cheatsheet
-* https://github.com/tmuxinator/tmuxinator - Tmux sessions manager
+* [Cheatsheet](http://tmuxcheatsheet.com/)
+* [Sessions manager](https://github.com/tmuxinator/tmuxinator)
 
 ## Vim
 

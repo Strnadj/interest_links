@@ -20,6 +20,10 @@
 * [Table Persistent Headers](https://css-tricks.com/examples/PersistantHeaders/)
 * [Test how mobile-friendly your site is](https://testmysite.thinkwithgoogle.com/intl/en-in)
 
+## Flexbox
+
+* [Animation how flexbox works!](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.lui2t3lx3)
+
 ## Tooltips
 
 * [Kickass Tooltips!](https://popper.js.org/)
@@ -93,11 +97,13 @@
 ## Editors
 
 * http://summernote.org/examples/
+* [Quilljs](http://quilljs.com/)
 
 ## UI sets
 
 * http://www.material-ui.com/#/components/snackbar - Material UI
 * https://wrapbootstrap.com/theme/velocity-designed-for-products-WB0N38R04 - Velocity UI
+* [Google Material Design](https://github.com/google/material-design-lite)
 * [Materialize](http://materializecss.com/)
 * http://wrapbootstrap.com/preview/WB0DN19X0 - Idea
 * https://almsaeedstudio.com/ - Admin views

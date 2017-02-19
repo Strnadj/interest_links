@@ -41,3 +41,7 @@
 
 * https://github.com/utgarda/sidekiq-status
 * https://github.com/st0012/ActiveJob-Cron - cron for AJ
+
+## Websockets
+
+* [Action Cable without Rails](https://github.com/palkan/litecable)

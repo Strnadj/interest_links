@@ -22,6 +22,9 @@
 * [Static types JS](https://flowtype.org/)
 * [Moment JS Replacement](https://date-fns.org/)
 * [i18n](http://i18next.com/translate/)
+* [Data fetching with Falcor](https://netflix.github.io/falcor/)
+* [Vector icons](https://github.com/exponent/vector-icons)
+* [Decorators in ES07](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.msdnzoghu)
 
 ## Books / Articles
 
@@ -39,6 +42,8 @@
 * [Clean Code - Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [React lessons](https://egghead.io/technologies/react)
 * [Why use static typing in JS?](https://dev.to/iampeekay/why-use-static-types-in-javascript-part-1)
+* [Isn't our code just the best?](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.9kckcl4k6)
+* [Learn webpack + react](https://survivejs.com/)
 
 
 ## React
@@ -53,6 +58,7 @@
 * [Best practicies for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 * [Uber mobile web](https://github.com/narendrashetty/uber-mobile-web)
 * [React Interview](https://tylermcginnis.com/react-interview-questions/)
+* [Testing with JEST](https://auth0.com/blog/testing-react-applications-with-jest/)
 
 ### React replacement
 
@@ -70,11 +76,25 @@
 * [Shoutem UI](https://shoutem.github.io/)
 * [Chat APP in 30 minutes](https://www.youtube.com/watch?v=VTnFDc3IFag)
 * [Graybox E2E](https://github.com/wix/detox)
+* [Save sensitive info](https://github.com/classapp/react-native-sensitive-info)
+* [Boilerplate](https://github.com/bartonhammond/snowflake)
+* [Slide menu](https://github.com/react-native-community/react-native-side-menu)
+* [Animations in native apps](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.47m1i4psi)
+
+### Example apps
+
+* [Dribble clon](https://github.com/catalinmiron/react-native-dribbble-app)
+* [F8 app from FaceBook](https://github.com/fbsamples/f8app)
+* [Movie APP](https://github.com/JuneDomingo/movieapp)
+* [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator)
 
 ## React / Redux
 
 * [Starter kit](https://github.com/davezuko/react-redux-starter-kit)
 * [Handle Login / Signup page](https://github.com/reactjs/redux/issues/297)
+* [Handle Login flow](https://github.com/mxstbr/login-flow/blob/master/js/actions/AppActions.js)
+* [Declarative REST data loader](https://tonyhb.github.io/tectonic/)
+* [Middleware](https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud)
 
 ## Tests
 
