@@ -25,6 +25,8 @@
 * [Data fetching with Falcor](https://netflix.github.io/falcor/)
 * [Vector icons](https://github.com/exponent/vector-icons)
 * [Decorators in ES07](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.msdnzoghu)
+* [Scaling NodeJS Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+* [SailsJS - MVC in NodeJS](http://sailsjs.com/(
 
 ## Books / Articles
 
@@ -59,6 +61,7 @@
 * [Uber mobile web](https://github.com/narendrashetty/uber-mobile-web)
 * [React Interview](https://tylermcginnis.com/react-interview-questions/)
 * [Testing with JEST](https://auth0.com/blog/testing-react-applications-with-jest/)
+* [Rekit.JS](http://rekit.js.org/))
 
 ### React replacement
 
@@ -87,6 +90,12 @@
 * [F8 app from FaceBook](https://github.com/fbsamples/f8app)
 * [Movie APP](https://github.com/JuneDomingo/movieapp)
 * [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator)
+
+### Tutorials
+
+* [Login screen](https://www.youtube.com/watch?v=1xu1eeRCPEk)
+* [Navigation](https://hackernoon.com/getting-started-with-react-navigation-the-navigation-solution-for-react-native-ea3f4bd786a4)
+* [UI Interactions](https://hackernoon.com/moving-beyond-animations-to-user-interactions-at-60-fps-in-react-native-b6b1fa0ba525)
 
 ## React / Redux
 

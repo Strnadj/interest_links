@@ -41,7 +41,14 @@
 
 * https://github.com/utgarda/sidekiq-status
 * https://github.com/st0012/ActiveJob-Cron - cron for AJ
+* [Monitor dissapear jobs for Sidekiq](https://github.com/twonegatives/attentive_sidekiq)
 
 ## Websockets
 
 * [Action Cable without Rails](https://github.com/palkan/litecable)
+
+## Native C(++) extensions
+
+* https://silverhammermba.github.io/emberb/c/
+* http://media.pragprog.com/titles/ruby3/ext_ruby.pdf
+* http://phrogz.net/ProgrammingRuby/ext_ruby.html

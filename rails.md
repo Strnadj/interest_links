@@ -31,7 +31,9 @@
 
 ## Rails replacement
 
+* http://hanamirb.org/
 * https://www.pakyow.com/
+* Grape API
 
 ## Deployment
 
@@ -71,6 +73,7 @@
 * [Geokit ActiveRecord](https://github.com/geokit/geokit-rails)
 * [From SQL to Arel](http://www.scuttle.io/)
 * [Money Types](https://glaucocustodio.github.io/2016/12/13/leveraging-rails-money-type/)
+* [Table Expressions in ActiveRecord](https://sonnym.github.io/2017/06/05/common-table-expressions-in-activerecord-a-case-study-of-quantiles/)
 
 ## Assets
 

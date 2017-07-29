@@ -27,6 +27,7 @@
 ## Tooltips
 
 * [Kickass Tooltips!](https://popper.js.org/)
+* [Microtip](https://ghosh.github.io/microtip/)
 
 ## Images
 
@@ -38,6 +39,8 @@
 * [Ant.design](https://ant.design/docs/spec/introduce)
 * [Ant.design (layout)](https://ant.design/docs/spec/layout)
 * [Flat admin v 3](http://tui2tone.github.io/flat-admin-bootstrap-templates/html/index.html)
+* [Semantic UI](https://semantic-ui.com/introduction/glossary.html)
+* [Atlaskit Starter](https://bitbucket.org/atlassian/atlaskit-starter/)
 
 ## Templates
 
@@ -53,6 +56,10 @@
 ## Music
 
 * https://github.com/goldfire/howler.js#documentation
+
+## Work with dates
+
+* [DateFNS replacement for moment.js](https://date-fns.org/)
 
 ## Date pickers
 
@@ -99,6 +106,10 @@
 * http://summernote.org/examples/
 * [Quilljs](http://quilljs.com/)
 
+## Wysiwyg editor
+
+* [Froala](https://www.froala.com/wysiwyg-editor?utm_expid=98676916-3.hPnlB_8ZTIKKKXBgYslKZA.0)
+
 ## UI sets
 
 * http://www.material-ui.com/#/components/snackbar - Material UI
@@ -122,3 +133,4 @@
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * http://streamlineicons.com/free-icons.html
 * [Icon8](https://icons8.com/web-app/new-icons/all)
+* [FeatherIcons](https://feathericons.com/)

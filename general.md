@@ -34,6 +34,7 @@
 
 * https://github.com/carlhuda/janus
 * https://twitter.com/vimtips/status/686955891799764992 - Change content in block
+* [Align with Tabular](https://www.youtube.com/watch?v=S33w7rcxbOk)
 
 ## Applications
 
