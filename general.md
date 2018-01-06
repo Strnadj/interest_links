@@ -46,4 +46,5 @@
 
 * [https://x3ro.de/2013/09/12/link-assembly-routine-with-c-on-osx.html](Link
   assembler code on OS X)
+* [Build MIDI controller with RaspberryPI](https://proandroiddev.com/building-a-distributed-midi-controller-with-android-things-and-nearby-api-2-b4b0531d645e)
 

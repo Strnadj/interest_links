@@ -5,6 +5,7 @@
 * [Free security training](https://www.cybrary.it/course/comptia-security-plus/)
 * https://freedomhacker.net/top-free-websites-to-learn-hacking-2016-4842/
 * https://github.com/owtf/owtf
+* [BEEF project - browser security explotation](http://beefproject.com/)
 
 ## NodeJS
 
@@ -13,11 +14,17 @@
 ## Scanners
 
 * [https://github.com/Ekultek/whitewidow](SQL injection scanner)
+* [NMap CVE list](https://github.com/vulnersCom/nmap-vulners)
 
 ## SQLInjections
 
-* [https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/](SQL Injection Cheat Sheet)
+* [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 ## Wordpress
 
-* [https://speckyboy.com/10-free-plugins-secure-wordpress-website/](Top 10 free plugins to secure WP)
+* [Top 10 free plugins to secure WP](https://speckyboy.com/10-free-plugins-secure-wordpress-website/)
+
+## Other
+
+* [Reverse shell in ruby](https://github.com/secjohn/ruby-shells/blob/master/revshell.rb)
+* [Block users by country](https://www.ip2location.com/free/visitor-blocker)

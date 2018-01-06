@@ -62,6 +62,7 @@
 * [React Interview](https://tylermcginnis.com/react-interview-questions/)
 * [Testing with JEST](https://auth0.com/blog/testing-react-applications-with-jest/)
 * [Rekit.JS](http://rekit.js.org/))
+* [Spreadsheet REACT kit](https://github.com/denisraslov/react-spreadsheet-grid)
 
 ### React replacement
 

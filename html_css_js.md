@@ -9,6 +9,7 @@
 * http://alvarotrigo.com/fullPage/ - Full page
 * https://codyhouse.co/ - Cool set of UI components and views
 * https://github.com/InterNations/antwort - Email templates
+* [Email templates](https://github.com/mjmlio/mjml)
 * http://alexgorbatchev.com/SyntaxHighlighter/ - Syntax highlighter
 * https://github.com/camwiegert/in-view - "In view" event in pure JavaScript (noJquery)
 * http://sharingbuttons.io/ - Sharing buttons
@@ -23,6 +24,7 @@
 ## Flexbox
 
 * [Animation how flexbox works!](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.lui2t3lx3)
+* [Flexbox guide](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
 
 ## Tooltips
 
@@ -89,11 +91,16 @@
 * [Text-Only CSS Spinners](http://tawian.io/text-spinners/)
 * [Bootstrap - Image Zoomer](https://github.com/marcaube/bootstrap-magnify)
 * [Really cool SVG responsive progress bars!](https://kimmobrunfeldt.github.io/progressbar.js/)
+* [Fixed table headers](https://codepen.io/tfzvang/pen/WQBwVo)
 
 ## Chart libraries
 
 * http://www.chartjs.org/
 * [Canvas Gauges](https://canvas-gauges.com/)
+
+## Uploaders
+
+* [Uppy](https://github.com/transloadit/uppy)
 
 ## Modals
 

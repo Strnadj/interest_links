@@ -15,8 +15,7 @@
 * [Coverband - monitore production LOC of using](https://github.com/danmayer/coverband)
 * [Progress Bar](https://github.com/jfelchner/ruby-progressbar)
 * [Terminal Table](https://github.com/tj/terminal-table)
-* [Ruby C API](https://silverhammermba.github.io/emberb/c/)
-* [Writing a C extension](https://www.xavierriley.co.uk/writing-a-c-extension-for-ruby-in-2016/)
+* [Process monitoring](https://github.com/kostya/eye)
 
 ## Testing
 
@@ -25,6 +24,7 @@
 ## Libraries
 
 * [ElasticSearch Client](https://github.com/toptal/chewy)
+* [Ruby HTTP sniffer](https://github.com/aderyabin/sniffer)
 
 ## Frameworks
 
@@ -47,8 +47,15 @@
 
 * [Action Cable without Rails](https://github.com/palkan/litecable)
 
+## Configuration
+
+* https://www.speedshop.co/2017/10/12/appserver.html
+
 ## Native C(++) extensions
 
 * https://silverhammermba.github.io/emberb/c/
 * http://media.pragprog.com/titles/ruby3/ext_ruby.pdf
 * http://phrogz.net/ProgrammingRuby/ext_ruby.html
+* [Ruby C API](https://silverhammermba.github.io/emberb/c/)
+* [Writing a C extension](https://www.xavierriley.co.uk/writing-a-c-extension-for-ruby-in-2016/)
+* https://people.apache.org/~rooneg/talks/ruby-extensions/ruby-extensions.html
