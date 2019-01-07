@@ -43,6 +43,7 @@
 * [Flat admin v 3](http://tui2tone.github.io/flat-admin-bootstrap-templates/html/index.html)
 * [Semantic UI](https://semantic-ui.com/introduction/glossary.html)
 * [Atlaskit Starter](https://bitbucket.org/atlassian/atlaskit-starter/)
+* [Mineral UI](https://mineral-ui.com/components/table)
 
 ## Templates
 
