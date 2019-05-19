@@ -2,8 +2,7 @@
 
 ## NodeJS
 
-* [https://github.com/ElemeFE/restc](Server middleware to visualize REST
-  requests)
+* [Server middleware to visualize REST requests](https://github.com/ElemeFE/restc)
 
 ## GraphQL
 

@@ -117,6 +117,7 @@
 ## Wysiwyg editor
 
 * [Froala](https://www.froala.com/wysiwyg-editor?utm_expid=98676916-3.hPnlB_8ZTIKKKXBgYslKZA.0)
+* [Editor.JS](https://editorjs.io/)
 
 ## UI sets
 
@@ -128,6 +129,7 @@
 * https://almsaeedstudio.com/ - Admin views
 * http://html5up.net/ - HTML 5 templates
 * [UIKit](https://getuikit.com/docs/form-select.html)
+* [JET Bridge - Admin](https://github.com/jet-admin/jet-bridge)
 
 ## Icons
 
