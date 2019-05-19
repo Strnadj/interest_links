@@ -2,9 +2,8 @@
 
 ## Tutorials & Articles
 
-* [https://www.youtube.com/watch?v=C96piR3FRww](React Navigation how to
-  start)
-* [https://www.youtube.com/watch?v=F2hBuevn7n8](Drawer Navigation)
+* [React Navigation how to start](https://www.youtube.com/watch?v=C96piR3FRww)
+* [Drawer Navigation](https://www.youtube.com/watch?v=F2hBuevn7n8)
 
 ## Libraries
 
