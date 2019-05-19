@@ -26,7 +26,7 @@
 * [Vector icons](https://github.com/exponent/vector-icons)
 * [Decorators in ES07](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.msdnzoghu)
 * [Scaling NodeJS Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
-* [SailsJS - MVC in NodeJS](http://sailsjs.com/(
+* [SailsJS - MVC in NodeJS](http://sailsjs.com/)
 
 ## Books / Articles
 
@@ -73,31 +73,6 @@
 * https://github.com/mxstbr/react-boilerplate
 * https://github.com/kriasoft/react-starter-kit
 
-## React Native
-
-* [CLI generator](https://github.com/infinitered/ignite)
-* [Native Maps from Airbnb](https://github.com/airbnb/react-native-maps)
-* [Shoutem UI](https://shoutem.github.io/)
-* [Chat APP in 30 minutes](https://www.youtube.com/watch?v=VTnFDc3IFag)
-* [Graybox E2E](https://github.com/wix/detox)
-* [Save sensitive info](https://github.com/classapp/react-native-sensitive-info)
-* [Boilerplate](https://github.com/bartonhammond/snowflake)
-* [Slide menu](https://github.com/react-native-community/react-native-side-menu)
-* [Animations in native apps](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.47m1i4psi)
-
-### Example apps
-
-* [Dribble clon](https://github.com/catalinmiron/react-native-dribbble-app)
-* [F8 app from FaceBook](https://github.com/fbsamples/f8app)
-* [Movie APP](https://github.com/JuneDomingo/movieapp)
-* [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator)
-
-### Tutorials
-
-* [Login screen](https://www.youtube.com/watch?v=1xu1eeRCPEk)
-* [Navigation](https://hackernoon.com/getting-started-with-react-navigation-the-navigation-solution-for-react-native-ea3f4bd786a4)
-* [UI Interactions](https://hackernoon.com/moving-beyond-animations-to-user-interactions-at-60-fps-in-react-native-b6b1fa0ba525)
-
 ## React / Redux
 
 * [Starter kit](https://github.com/davezuko/react-redux-starter-kit)
@@ -109,8 +84,8 @@
 ## Tests
 
 * [TDD for JavaScript](http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/)
-* https://github.com/sindresorhus/ava - Cool test runner
-* https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.dgkdh8q4d - Testing in react
+* [Cool test runner](https://github.com/sindresorhus/ava)
+* [Testing in react](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.dgkdh8q4d)
 * [Http Proxy](https://github.com/nodejitsu/node-http-proxy)
 
 ## Libraries
